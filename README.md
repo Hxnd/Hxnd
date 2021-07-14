@@ -1,4 +1,1 @@
-# Yeah this is the github profile of your favorite ossi!
-### My Name is hxnd. Somebody ones sad I'm a developer.
-
-I use Jetbrains Things to code and paint for epic designs.
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/277424389589303298)](https://discord.com/users/277424389589303298)
